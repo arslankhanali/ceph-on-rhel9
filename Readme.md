@@ -1,0 +1,1 @@
+deploy_ceph.sh is main file
